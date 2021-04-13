@@ -4,4 +4,4 @@
 | -------- | -------- |
 | growth   | [growth](growthmindset)|
 | read01   | [markdawn](read01)|
-| Read02   | [git](Read02)
+| Read02   | [git](Read02)|
