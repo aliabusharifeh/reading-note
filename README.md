@@ -3,5 +3,5 @@
 | reads    | links    |
 | -------- | -------- |
 | growth   | [growth](growthmindset)|
-| Read01   | [markdawn](Read01)|
-| Read02   | [Git](Read02.md)|
+| read01   | [markdawn](read01)|
+| Read02   | [git](Read02)
