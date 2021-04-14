@@ -1,15 +1,6 @@
 ## how is the computer work ?
 
-
-
-
-
-
 ##### The most basic way of thinking of a computer is as an Input/Output machine. That’s a pretty basic idea: computers take information from external sources (your keyboard, mouse, sensors or the internet), store it, process it, and return the result (Output) of that process.
-
-
-
-
 
 ##### Now, we are all pretty used and familiar with the ways a computer has to receive input and to print out some output, we’ve all used a mouse or a keyboard, or even talked to a computer and we’ve all read an article on a website, listened to music or browsed through some old pictures, etc. What we ain’t as familiar with, and what we usually struggle to understand is how a computer actually processes information.
 
