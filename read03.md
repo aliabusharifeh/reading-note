@@ -12,8 +12,7 @@
 **EXTRA MARKUP**
 ##### Specifying different versions of HTML
 ##### Identifying and grouping elements
-##### Comments, meta information and iframes
- ##### it focus on some helpful topics that are not easily grouped together. 
+##### Comments, meta information and iframes , it focus on some helpful topics that are not easily grouped together. 
 ##### The different versions of HTML and how to indicate which version you are using
 ##### How to add comments to your code
 ##### Global attributes, which are attributes that can be used on any element, including the class and id attributes

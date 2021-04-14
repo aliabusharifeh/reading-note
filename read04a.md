@@ -1,0 +1,6 @@
+
+## Dynamic web pages with JavaScript
+
+##### Javascript is also very dynamic and easy to implement into standard HTML code. It is a markup language that is written in plain text, just like HTML, and a client-side language that does not require data to be compiled before runtime. Because it is a front-end and client-side language, the code can be read directly via a browser quickly and without it having to be sent and read by a far-off server in addition to a client. This means good Javascript implementations can add speed and efficiency to web development.
+##### In addition to this, Javascript is an object-oriented language. This is great for new or aspiring developers as it is easy to get into and understand. Real world objects, can be described and defined using javascript code. Properties, such as the dimensions of an object and its illumination or brightness can all be described with Javascript code. Javascript supports inheritance through prototyping alongside properties and methods. Events can even be implemented at will within the code that happens to also be encapsulated for defined objects.
+##### Although Javascript offers various ways it can benefit a user interface for a site or app, there are also various things to keep in mind before implementing it. Things to be careful about mainly revolve around the limitations of a user's computing power.
