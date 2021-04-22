@@ -11,4 +11,4 @@
 | read05   | [js,operators&loop](read05)
 | read06   | [prog,js](read06)
 | read07   | [design with css](read07)
-| read09   | [abot using terminal](read09)
+| read09   | [about using terminal](read09)
